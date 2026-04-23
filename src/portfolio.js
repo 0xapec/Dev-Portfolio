@@ -229,6 +229,22 @@ const techStack = {
     {
       Stack: "Programming",
       progressPercentage: "98%"
+    },
+    {
+      Stack: "Wordpress",
+      progressPercentage: "97%"
+    },
+    {
+      Stack: "DevOps",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Problem Solving",
+      progressPercentage: "98%"
+    },
+    {
+      Stack: "Team Management",
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -240,7 +256,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
+      role: "Senior Software engineer",
       company: "Facebook",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
