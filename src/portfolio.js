@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Igor Dev Studio",
-  title: "Hi all, I'm Igor",
+  username: "Ryosuke Matsumoto",
+  title: "Hi all, I'm Ryosuke",
   subTitle: emoji(
   "Full Stack Engineer specializing in AI and Blockchain, with proven expertise in building scalable web and mobile applications using modern technologies such as JavaScript, React, Node.js, and React Native. Passionate about delivering high-performance, user-centric digital solutions."
   ),
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/0xapec",
-  gmail: "anahothem@outlook.com",
+  gmail: "toptalent.venus@gmail.com",
   medium: "https://medium.com/@0xapec",
   display: true // Set true to display this section, defaults to false
 };
@@ -449,7 +449,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1 917 730 8503",
-  email_address: "anahothem@outlook.com"
+  email_address: "toptalent.venus@gmail.com"
 };
 
 // Twitter Section
