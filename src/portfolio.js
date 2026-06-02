@@ -186,8 +186,8 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Kyiv National University of Technologies and Design",
-      logo: require("./assets/images/kyiv-university-of-technology-and-design.png"),
+      schoolName: "The University of Tokyo",
+      logo: require("./assets/images/The University of Tokyo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of LLM model development and published 3 papers.",
@@ -197,8 +197,8 @@ const educationInfo = {
       // ]
     },
     {
-      schoolName: "Kyiv National University of Technologies and Design",
-      logo: require("./assets/images/kyiv-university-of-technology-and-design.png"),
+      schoolName: "The University of Tokyo",
+      logo: require("./assets/images/The University of Tokyo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, Data Structures...",
